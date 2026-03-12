@@ -46,7 +46,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavraj840&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavraj840&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavraj840&layout=compact&theme=tokyonight)
 
 ---
 
@@ -58,7 +60,7 @@
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madhavraj840)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madhavraj840&theme=dracula)
 
 ---
 
@@ -70,7 +72,10 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/madhavraj840/madhavraj840/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/madhavraj840/madhavraj840/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/madhavraj840/madhavraj840/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
