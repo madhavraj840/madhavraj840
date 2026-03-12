@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maddhavraj840&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavraj840&show_icons=true)
 
 ---
 
