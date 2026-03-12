@@ -25,12 +25,11 @@
 
 ---
 
-## 🧰 Tools
+## 🚀 Technologies
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,cpp,git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -75,12 +74,10 @@
 ![Snake animation](https://github.com/madhavraj840/madhavraj840/blob/output/github-contribution-grid-snake-glow.svg)
 
 ---
-
-## 🔧 Current Work
   
-- Flutter web applications  
-- Automation tools  
+## 🚀 Featured Projects
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=REPO_NAME)](https://github.com/madhavraj840/SUDOKO_GAME)
 ---
 
 ## 🎯 Goals
