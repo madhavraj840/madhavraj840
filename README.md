@@ -13,10 +13,10 @@
 
 ---
 
-## 🚀 Technologies
+## ⚡ Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,git,github,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,js,cpp,git,github,linux,vscode&perline=6" />
 </p>
 
 ---
@@ -34,6 +34,12 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=madhavraj840&theme=tokyonight"/>
 </p>
+
+---
+
+## 📅 3D Contribution Calendar
+
+![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=madhavraj840&theme=tokyo-night&area=true&hide_border=true)
 
 ---
 
@@ -58,6 +64,13 @@
 ## 🚀 Featured Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=SUDOKO_GAME)](https://github.com/madhavraj840/SUDOKO_GAME)
+
+---
+
+## 🚀 Featured Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=SUDOKO_GAME&theme=tokyonight)](https://github.com/madhavraj840/SUDOKO_GAME)
+
 ---
 
 ## 🎯 Goals
