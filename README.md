@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi 👋 I'm Madhav Raj
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;Flutter+Developer;Web+Tool+Builder;Automation+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=JUST+A+Developer;Web+Tool+Builder;Automation+Enthusiast)
 
 ---
 
@@ -46,25 +46,25 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maddhavraj840&show_icons=true)
 
 ---
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavraj840&layout=compact)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madhavraj840)
 
 ---
 
 ## 👀 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Visitor Count](https://komarev.com/ghpvc/?username=madhavraj840)
 
 ---
 
@@ -85,7 +85,7 @@
 
 ## 📫 Contact
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/madhavraj840
 
 ---
 
