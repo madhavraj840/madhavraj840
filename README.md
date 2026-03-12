@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Student exploring **don't know what i am explaoring**
+- 🎓 Student exploring **don't know what i am exploring**
 - 💻 Building **Jo man mai aayai**
 - ⚙️ Interested in **DON'T KNOW**
 
@@ -74,4 +74,4 @@ Telegram : https://t.me/Madhavraj840
 
 ---
 
-⭐ If you find my repositories useful, consider giving them a star(real one).
+⭐ If you find my repositories useful, consider giving them a star (real one).
