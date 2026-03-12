@@ -67,7 +67,7 @@
   
 ## 🚀 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=REPO_NAME)](https://github.com/madhavraj840/SUDOKO_GAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=SUDOKO_GAME)](https://github.com/madhavraj840/SUDOKO_GAME)
 ---
 
 ## 🎯 Goals
