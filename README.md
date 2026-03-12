@@ -37,12 +37,6 @@
 
 ---
 
-## 📅 3D Contribution Calendar
-
-![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=madhavraj840&theme=tokyo-night&area=true&hide_border=true)
-
----
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madhavraj840&theme=dracula)
@@ -61,12 +55,6 @@
 
 ---
   
-## 🚀 Featured Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=SUDOKO_GAME)](https://github.com/madhavraj840/SUDOKO_GAME)
-
----
-
 ## 🚀 Featured Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=SUDOKO_GAME&theme=tokyonight)](https://github.com/madhavraj840/SUDOKO_GAME)
