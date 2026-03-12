@@ -31,7 +31,6 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=madhavraj840&theme=tokyonight)
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=madhavraj840&theme=tokyonight"/>
 </p>
