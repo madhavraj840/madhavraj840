@@ -33,16 +33,6 @@
 
 ---
 
-## 🏷 Skill Badges
-
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![Flutter](https://img.shields.io/badge/Flutter-App%20Developer-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-green)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-red)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavraj840&show_icons=true&theme=tokyonight)
