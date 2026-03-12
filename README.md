@@ -68,6 +68,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/madhavraj840/madhavraj840/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🔧 Current Work
   
 - Flutter web applications  
