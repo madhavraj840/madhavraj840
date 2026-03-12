@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi 👋 I'm Madhav Raj
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=JUST+A+Developer;Web+Tool+Builder;Automation+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=JUST+A+Developer;Web+Tool+Builder;Automation)
 
 ---
 
@@ -9,26 +9,14 @@
 
 - 🎓 Student exploring 
 - 💻 Building **web tools,and automation utilities**
-- 🌱 Currently learning **MMMMMMMM**
 - ⚙️ Interested in **DON'T KNOW**
-
----
-
-## 🛠 Skills
-
-### Programming
-- CLAUDE
-- GPT CODEX
-- JavaScript
-- C++
-
 
 ---
 
 ## 🚀 Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,cpp,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,js,html,git,github,vscode,linux" />
 </p>
 
 ---
@@ -43,7 +31,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavraj840&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavraj840&layout=compact&theme=tokyonight)
 
 ---
 
