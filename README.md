@@ -1,14 +1,12 @@
-## Hi there 👋
 # Hi 👋 I'm Madhav Raj
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=JUST+A+Developer;Web+Tool+Builder;Automation)
-
 ---
 
 ## 🚀 About Me
 
-- 🎓 Student exploring 
-- 💻 Building **web tools,and automation utilities**
+- 🎓 Student exploring **don't know what i am explaoring**
+- 💻 Building **Jo man mai aayai**
 - ⚙️ Interested in **DON'T KNOW**
 
 ---
@@ -16,7 +14,7 @@
 ## ⚡ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,js,cpp,git,github,linux,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,c++,git,github,linux,vscode&perline=6" />
 </p>
 
 ---
@@ -49,7 +47,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍  Snake
 
 ![Snake animation](https://github.com/madhavraj840/madhavraj840/blob/output/github-contribution-grid-snake-glow.svg)
 
@@ -58,21 +56,22 @@
 ## 🚀 Featured Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=SUDOKO_GAME&theme=tokyonight)](https://github.com/madhavraj840/SUDOKO_GAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=BUNKWISE&theme=tokyonight)](https://github.com/madhavraj840/BUNKWISE)
 
 ---
 
 ## 🎯 Goals
   
-- Contribute to open-source projects  
-- Develop scalable web applications  
-- Improve system architecture knowledge  
-
+- GET UPSC AIR 1 IN 2027 (PURE DELUSIONAL) ------
+                                                 |---- don't know how to do it 
+- GET A RE GT650 BY END OF 2026 (2ND DELUSION)---
+- 3rd goal not yet decided 
 ---
 
 ## 📫 Contact
 
-GitHub: https://github.com/madhavraj840
+Telegram : https://t.me/Madhavraj840
 
 ---
 
-⭐ If you find my repositories useful, consider giving them a star.
+⭐ If you find my repositories useful, consider giving them a star(real one).
