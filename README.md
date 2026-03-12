@@ -1,16 +1,92 @@
 ## Hi there 👋
+# Hi 👋 I'm Madhav Raj
 
-<!--
-**madhavraj840/madhavraj840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;Flutter+Developer;Web+Tool+Builder;Automation+Enthusiast)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Student exploring 
+- 💻 Building **web tools,and automation utilities**
+- 🌱 Currently learning **MMMMMMMM**
+- ⚙️ Interested in **DON'T KNOW**
+
+---
+
+## 🛠 Skills
+
+### Programming
+- CLAUDE
+- GPT CODEX
+- JavaScript
+- C++
+
+
+---
+
+## 🧰 Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 🏷 Skill Badges
+
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![Flutter](https://img.shields.io/badge/Flutter-App%20Developer-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-green)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-red)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+
+---
+
+## 👀 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
+---
+
+## 🔧 Current Work
+  
+- Flutter web applications  
+- Automation tools  
+
+---
+
+## 🎯 Goals
+  
+- Contribute to open-source projects  
+- Develop scalable web applications  
+- Improve system architecture knowledge  
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ If you find my repositories useful, consider giving them a star.
