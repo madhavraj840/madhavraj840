@@ -19,13 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavraj840&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavraj840&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 Contribution Streak
 
