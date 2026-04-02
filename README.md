@@ -46,13 +46,7 @@
 ![Snake animation](https://github.com/madhavraj840/madhavraj840/blob/output/github-contribution-grid-snake-glow.svg)
 
 ---
-  
-## 🚀 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=SUDOKO_GAME&theme=tokyonight)](https://github.com/madhavraj840/SUDOKO_GAME)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=madhavraj840&repo=BUNKWISE&theme=tokyonight)](https://github.com/madhavraj840/BUNKWISE)
-
----
 
 ## 🎯 Goals
   
